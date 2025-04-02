@@ -2,7 +2,7 @@
 
 Passionate and self-taught software tester - since 2019. 
 I am convinced that critical thinking and adaptation are the most important tools in quality assurance. 
-Every project, every team, and every sprint requires individually tailored QA solutions.
+Every project, every team, and every sprint requires individually tailored QA solutions.\
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/fmichalzik).
 
 **About me:**
