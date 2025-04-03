@@ -5,6 +5,8 @@ I am convinced that critical thinking and adaptation are the most important tool
 Every project, every team, and every sprint requires individually tailored QA solutions.\
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/fmichalzik).
 
+<!-- <img align="right" alt="tbd" src="images/tbd" width="320px" /> -->
+
 **About me:**
 - 👨 I’m Florian Michalzik
 - 📫 I'm from Germany
