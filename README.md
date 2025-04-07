@@ -11,7 +11,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/fmichalzik).
 - 👨 I’m Florian Michalzik
 - 📫 I'm from Germany
 - 😄 Pronouns: he/him/his.
-- 🌱 I’m currently learning backend-development
+- 🌱 I’m currently improving my coding skills
 - 💬 Ask me about Software Testing
 - ✨ Also passionate about Badminton (sport)
 
